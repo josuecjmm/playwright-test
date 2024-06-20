@@ -1,0 +1,7 @@
+enum DEFAULT_VALUES {
+    LATITUDE_LONGITUDE='(0.000000, 0.000000)',
+    GPS_LATITUDE="0° 0' 0'' N",
+    GPS_LONGITUDE="0° 0' 0'' E"
+}
+
+export default DEFAULT_VALUES;
